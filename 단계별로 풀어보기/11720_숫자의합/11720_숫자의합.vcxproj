@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{C6A2F396-6E8B-436C-BF82-761A0CEBC635}</ProjectGuid>
-    <RootNamespace>My2441별찍기4</RootNamespace>
+    <ProjectGuid>{6C387E06-CD2C-454B-BB62-AB3B9093652F}</ProjectGuid>
+    <RootNamespace>My11720숫자의합</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
