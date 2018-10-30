@@ -20,10 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{51319489-E5FC-410C-A557-4A9F107F4E23}</ProjectGuid>
-    <RootNamespace>별찍기1</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>2438_별찍기-1</ProjectName>
+    <ProjectGuid>{A8BE3976-707B-4133-8721-DB80724ACD68}</ProjectGuid>
+    <RootNamespace>기찍N</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>2742_기찍N</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
